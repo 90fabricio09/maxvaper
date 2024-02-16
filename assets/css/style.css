@@ -37,7 +37,7 @@ html {
     color: white;
     text-decoration: none; }
     a:hover {
-      color: #487bf5; }
+      color: #4f7af5; }
   
   body {
     scroll-behavior: smooth;
@@ -90,7 +90,7 @@ html {
     transition-duration: 0.3s; }
     select:focus,
     input:focus {
-      border-color: #487bf5; }
+      border-color: #4f7af5; }
   
   input[type=number] {
     appearance: textfield; }
@@ -168,7 +168,7 @@ html {
   .cc__checkout___wrapper .cc__checkout___footer p {
     font-family: 'Poppins', sans-serif; }
     .cc__checkout___wrapper .cc__checkout___footer p strong {
-      color: #487bf5; }
+      color: #4f7af5; }
   
   .cc__checkout___wrapper .cc__checkout___footer i {
     margin-right: 5px; }
@@ -182,7 +182,7 @@ html {
   .cc__checkout___wrapper .cc__checkout___footer .rotate {
     margin: 0;
     margin-left: 8px;
-    color: #487bf5;
+    color: #4f7af5;
     animation: rotation 2s infinite linear; }
   
   .cc__checkout___wrapper .cc__checkout___products {
@@ -208,7 +208,7 @@ html {
       background-color: #212733; }
     .cc__checkout___wrapper .cc__checkout___products .cc__checkout___price {
       font-weight: 700;
-      color: #487bf5;
+      color: #4f7af5;
       font-size: 15px; }
     .cc__checkout___wrapper .cc__checkout___products .cc__checkout___quantity_controller {
       display: flex;
@@ -265,7 +265,7 @@ html {
         left: 50%;
         transform: translateX(-50%); }
       .cc__checkout___wrapper .cc__checkout___products .cc__checkout___options_btn.open {
-        background-color: #487bf5; }
+        background-color: #4f7af5; }
       .cc__checkout___wrapper .cc__checkout___products .cc__checkout___options_btn i {
         transition-duration: 0.3s; }
       .cc__checkout___wrapper .cc__checkout___products .cc__checkout___options_btn:hover i {
@@ -322,7 +322,7 @@ html {
         margin: 0;
         margin-left: 5px; }
         .cc__checkout___modal .modal-body .cc__checkout___form_field.checkbox label #terms-form {
-          color: #487bf5;
+          color: #4f7af5;
           font-weight: bold;
           cursor: pointer; }
           .cc__checkout___modal .modal-body .cc__checkout___form_field.checkbox label #terms-form:hover {
@@ -823,7 +823,7 @@ html {
 
   .preco {
     margin-top: 10px;
-    color: #487bf5;
+    color: #4f7af5;
   }
 
   @media print {
@@ -879,7 +879,7 @@ html {
         color: #cdcdcd;
         position: relative; }
         header nav li a.active {
-          color: #487bf5; }
+          color: #4f7af5; }
         header nav li a.animate:hover::after {
           width: 100%; }
         header nav li a::after {
@@ -897,7 +897,7 @@ html {
         border-radius: 32px;
         color: white; }
         header nav li .cc__header___store_btn:hover {
-          color: #487bf5; }
+          color: #4f7af5; }
   header .cc__header___hero {
     min-height: 2rgb(255, 0, 0) }
     header .cc__header___hero::before {
@@ -929,7 +929,7 @@ html {
           margin-right: auto;
           margin-left: auto;
           font-size: 43px;
-          color: #487bf5;
+          color: #4f7af5;
           padding-left: 16px;
           padding-right: 16px; }
         header .cc__header___hero .cc__header___hero__wrapper .cc__header___hero__widget h1 {
@@ -947,7 +947,7 @@ html {
           width: min-content;
           font-size: 48px;
           font-weight: 700;
-          text-shadow: 1px 1px 0 #487bf5;
+          text-shadow: 1px 1px 0 #4f7af5;
           text-align: center;
           text-transform: uppercase;
           font-family: 'Orbitron', sans-serif; }
@@ -1030,7 +1030,7 @@ html {
           font-weight: 700; }
           .cc__index___grid .cc__index___sidebar .cc__index___sidebar__navigation li a .fa-house,
           .cc__index___grid .cc__index___sidebar .cc__index___sidebar__navigation li a .fa-bars {
-            color: #487bf5;
+            color: #4f7af5;
             margin-right: 8px; }
           .cc__index___grid .cc__index___sidebar .cc__index___sidebar__navigation li a .fa-caret-right {
             color: #5b5b5b;
@@ -1067,7 +1067,7 @@ html {
                 text-align: end;
                 padding: 8px;
                 border-radius: 8px;
-                background-color: #487bf5;
+                background-color: #4f7af5;
                 margin-left: auto;
                 font-family: 'Poppins', sans-serif;
                 font-weight: 500; }
@@ -1097,7 +1097,7 @@ html {
                 .cc__index___grid .cc__index___content .cc__index___content__panel .cc__index___posts .cc__index___posts__post .cc__post_container .cc__post_footer .cc__post_footer__read_more {
                   padding: 8px;
                   border-radius: 5px;
-                  background-color: #487bf5;
+                  background-color: #4f7af5;
                   font-weight: bold; }
                   .cc__index___grid .cc__index___content .cc__index___content__panel .cc__index___posts .cc__index___posts__post .cc__post_container .cc__post_footer .cc__post_footer__read_more:hover {
                     color: #10131a; }
@@ -1108,7 +1108,7 @@ html {
           justify-content: space-between; }
           .cc__index___grid .cc__index___content .cc__index___content__panel .cc__index___posts_paginator * {
             border-radius: 5px;
-            background-color: #487bf5;
+            background-color: #4f7af5;
             height: 32px;
             width: 32px;
             line-height: 32px;
@@ -1151,7 +1151,7 @@ html {
     .cta-btn.red {
       background-color: red; }
     .cta-btn.primary {
-      background-color: #487bf5; }
+      background-color: #4f7af5; }
   
   .discord-btn {
     background-color: #5865f2;
@@ -1237,7 +1237,7 @@ html {
         text-align: end;
         padding: 8px;
         border-radius: 8px;
-        background-color: #487bf5;
+        background-color: #4f7af5;
         margin-left: auto;
         font-family: 'Poppins', sans-serif;
         font-weight: 500; }
@@ -1286,14 +1286,14 @@ html {
         justify-content: space-between;
         align-items: center; }
         .cc__product___wrapper .cc__product___info .cc__product___action p {
-          color: #487bf5;
+          color: #4f7af5;
           font-weight: 600; }
         .cc__product___wrapper .cc__product___info .cc__product___action button {
           font-size: 14px;
           font-weight: 600;
           padding: 8px 16px;
           border-radius: 5px;
-          background-color: #487bf5; }
+          background-color: #4f7af5; }
           .cc__product___wrapper .cc__product___info .cc__product___action button:hover {
             background-color: #960e29; }
   
@@ -1310,13 +1310,13 @@ html {
       margin-top: 16px;
       border-radius: 5px;
       padding: 8px;
-      background-color: #487bf5;
+      background-color: #4f7af5;
       color: white;
       text-align: center;
       transition: all 0.3s; }
       .cc__widget___connection a:hover {
         background-color: white;
-        color: #487bf5; }
+        color: #4f7af5; }
   
       .cc__widget___connection2 {
         margin: 0 auto;
@@ -1334,7 +1334,7 @@ html {
           margin-top: 16px;
           border-radius: 5px;
           padding: 8px;
-          background-color: #487bf5;
+          background-color: #4f7af5;
           color: white;
           text-align: center; }
 
@@ -1354,7 +1354,7 @@ html {
               margin-top: 16px;
               border-radius: 5px;
               padding: 8px;
-              background-color: #487bf5;
+              background-color: #4f7af5;
               color: white;
               text-align: center; }
 
@@ -1373,7 +1373,7 @@ html {
     .cc__widget___product img {
       width: 164px; }
     .cc__widget___product button {
-      background-color: #487bf5;
+      background-color: #4f7af5;
       color: white;
       padding: 8px;
       border-radius: 5px;
@@ -1384,7 +1384,7 @@ html {
     margin-right: auto;
     font-family: 'Poppins', sans-serif; }
     .cc__widget___product_modal_price strong {
-      color: #487bf5; }
+      color: #4f7af5; }
   
   .maralto {
     flex-direction: row;
@@ -1399,7 +1399,7 @@ html {
   .btmaralto {
     cursor: pointer;
     text-decoration: none;
-    background-color: #487bf5;
+    background-color: #4f7af5;
     color: white;
     border-radius: 20px;
     padding: 15px;
@@ -1409,7 +1409,7 @@ html {
   .btmaralto:hover {
     text-decoration: none;
     background-color: white;
-    color: #487bf5;
+    color: #4f7af5;
   }
 
   hr {
@@ -1434,7 +1434,7 @@ html {
   
   body::-webkit-scrollbar-thumb {
     cursor: pointer;
-    background-color: #487bf5;  
+    background-color: #4f7af5;  
   }
   body::-webkit-scrollbar-thumb:hover {
     background-color: #ffffff;   
